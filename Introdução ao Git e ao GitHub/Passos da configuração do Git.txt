@@ -1,0 +1,9 @@
+1.Criar chave ssh
+2.Localizar chave ssh
+3.Visualizar chave ssh
+3.1. Add chave no github
+4.Iniciar SSH agent
+5.Passar a chave privada ssh para o agent
+6.Clonar repositório
+7.Iniciaro Git e criar um commit
+8.Apontar o repositório para o GitHub

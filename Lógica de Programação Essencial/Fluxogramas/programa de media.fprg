@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="DEBOCORE"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-11 07:56:46 "/>
+        <attribute name="created" value="REVCT0NPUkU7TUFSSzU7MjAyMi0wNC0xMTsiMDc6Mjg6NTkgIjsyMTI5"/>
+        <attribute name="edited" value="REVCT0NPUkU7TUFSSzU7MjAyMi0wNC0xMTsiMDc6NTY6NDYgIjsxOzIyMzQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nota1, Nota2, Nota3, Nota4, media" type="Real" array="False" size=""/>
+            <input variable="Nota1"/>
+            <input variable="Nota2"/>
+            <input variable="Nota3"/>
+            <input variable="Nota4"/>
+            <assign variable="media" expression="(Nota1+Nota2+Nota3+Nota4)/4"/>
+            <output expression="media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
